@@ -4,9 +4,9 @@ import java.util.LinkedList;
 public class LinkedlistDemo1 {
     public static void main(String[] args) {
         LinkedList l = new LinkedList();
-        l.add(100);
+        l.add(50);
         l.add("Welcome");
-        l.add(18.5);
+        l.add(24.5);
         l.add(true);
         l.add('A');
         System.out.println(l);
