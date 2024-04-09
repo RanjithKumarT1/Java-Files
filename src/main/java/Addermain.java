@@ -11,7 +11,6 @@ public class Addermain {
         add.sum(30.5,20);
 
         add.sum(15,25,35);
-        add.sum(20,25,30);
 
     }
 
