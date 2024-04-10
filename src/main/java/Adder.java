@@ -10,6 +10,7 @@ public class Adder {
     int a = 10, b = 30;
     void sum(){
         System.out.println(a+b);
+         system.out.println(a);
     }
 
     void sum(int x , int y){
